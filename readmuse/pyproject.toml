@@ -1,0 +1,5 @@
+[project]
+name = "readmegen-ai"
+version = "0.1.0"
+description = "AI-powered README generator for Python files"
+dependencies = ["requests"]
